@@ -33,7 +33,28 @@
  
 # Projects
 
-## 1. Grow Plant -- [Repository](https://github.com/Yj621/Grow-Plant) 
+## 1. Crayon Fish -- 비공개
+
+<a href="https://youtube.com/shorts/5ZDfhG7ofYg?feature=share">
+    <img width="200" height="2532" alt="image (1)" src="https://github.com/user-attachments/assets/1580f651-93b0-48e5-ac18-a6dd5a297d01" />
+</a>
+
+
+장르 : 2D 하이퍼캐쥬얼 아케이드 
+
+**역할**
+
+- **플레이어** 애니메이션 및 이동, 상태 등 관련 기능 구현
+- **앱인토스 플랫폼**에 맞춘 모바일 **UI 디자인/설계 및 이펙트** 구현
+- 플레이어 성장에 따른 **카메라 연출**
+
+**성과**
+
+- **앱인토스**플랫폼 출시 및 전체적인 프로세스 이해
+- **편의성**을 높이기 위한 유저 친화적 UI 설계
+- **partial class**를 활용하여 클래스 분리, 코드 가독성 및 협업 효율성 향상
+
+## 2. Grow Plant -- [Repository](https://github.com/Yj621/Grow-Plant) 
 
 <a href="https://play.google.com/store/apps/details?id=com.beee.growplant">
     <img src="https://github.com/user-attachments/assets/10c93e64-628f-48b5-80bd-968e2903d9b9" alt="썸네일" width="200">
@@ -55,7 +76,7 @@
 - **몰입감**을 높이는 동시에 편의성을 확보
 - 플레이어가 **진행 상황**을 직관적으로 파악할 수 있도록 설계
 
-## 2. RedHood's Adventure -- [Repository](https://github.com/Yj621/Red-Hood-s-Adventrue) 
+## 3. RedHood's Adventure -- [Repository](https://github.com/Yj621/Red-Hood-s-Adventrue) 
 
 [<img src="https://github.com/user-attachments/assets/0e254cbf-3567-4300-b182-55c52515b17d" alt="썸네일" width="500"/>](https://www.youtube.com/watch?v=PZdd4Z2P5N4)
 
@@ -78,7 +99,7 @@
 - 신규 업그레이드 추가 시 **코드 변경량 70% 감소**  
 - 풀링 적용으로 **GC 오버헤드 60% 감소**, 프레임 안정성 확보  
 
-## 3. Absorber -- [Repository](https://github.com/Yj621/Absorber) 
+## 4. Absorber -- [Repository](https://github.com/Yj621/Absorber) 
 
 [<img src="https://github.com/user-attachments/assets/d79ca6e4-c515-4db6-96f2-cdd817057411" alt="썸네일" width="500"/>](https://youtu.be/_Qos5GsNZl0)
 
@@ -97,7 +118,7 @@
 - 인터페이스 기반 설계로 **적 타입 추가 개발 생산성 40% 향상**, 코드 중복 50% 감소  
 - State Pattern 적용으로 상태 확장 및 유지보수 용이  
 
-## 4. HalloWitch -- [Repository](https://github.com/Yj621/Witch) 
+## 5. HalloWitch -- [Repository](https://github.com/Yj621/Witch) 
 
 [<img src="https://github.com/user-attachments/assets/87e4635e-ddcd-4be5-baa1-068d34afb910" alt="썸네일" width="500"/>](https://youtu.be/AIIPsuBO5aQ)
 
