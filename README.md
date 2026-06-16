@@ -36,7 +36,7 @@
 ## 1. Crayon Fish -- 비공개
 
 <a href="https://youtube.com/shorts/5ZDfhG7ofYg?feature=share">
-    <img width="200" height="2532" alt="image (1)" src="https://github.com/user-attachments/assets/1580f651-93b0-48e5-ac18-a6dd5a297d01" />
+    <img width="200" height="253" alt="image (1)" src="https://github.com/user-attachments/assets/1580f651-93b0-48e5-ac18-a6dd5a297d01" />
 </a>
 
 
